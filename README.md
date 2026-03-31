@@ -1,2 +1,2 @@
-# Classificador-de-N-vel-de-Her-i
+# Classificador-de-Nivel-de-Heroi
 Desafio Inicial do Bootcamp DIO Blip Lógica de programação 
